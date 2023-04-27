@@ -1,2 +1,2 @@
 # hello-world
-ALX SE Program
+ALX Program
